@@ -1,0 +1,34 @@
+.conteiner {
+}
+
+
+.images {
+    vertical-align: middle; 
+}
+
+.imgcase {
+    padding:0 ;
+    position: relative;
+}
+
+.imgcase img {
+    width: 100%;
+    height: auto;
+}
+
+h5 {
+    position: absolute;
+    color: #ffffff;
+    top: 0;
+    
+}
+
+.image-conteiner h5{
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    vertical-align: middle
+}
+
+
